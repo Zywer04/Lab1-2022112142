@@ -1,16 +1,6 @@
 经过的节点：
-but -> the -> scientist -> analyzed -> the -> team -> requested -> more -> data -> so -> the -> report -> with -> the
+seek -> out -> new -> life
 经过的边：
-('but', 'the')
-('the', 'scientist')
-('scientist', 'analyzed')
-('analyzed', 'the')
-('the', 'team')
-('team', 'requested')
-('requested', 'more')
-('more', 'data')
-('data', 'so')
-('so', 'the')
-('the', 'report')
-('report', 'with')
-('with', 'the')
+('seek', 'out')
+('out', 'new')
+('new', 'life')

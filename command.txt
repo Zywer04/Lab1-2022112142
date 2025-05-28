@@ -1,0 +1,3 @@
+pylint --disable=C0103,C0114,C0116,C0411,W0603,R0914  lab1-2022112142.py
+
+flake8 lab1-2022112142.py   
